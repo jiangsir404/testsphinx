@@ -12,6 +12,7 @@ Welcome to test's documentation!
 
    introduce
    about
+   dashboard
 
 Indices and tables
 ==================
